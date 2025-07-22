@@ -1,0 +1,26 @@
+form input:focus {
+  border: 2px solid blue;
+}
+
+form button:hover {
+  background-color: lightgreen;
+}
+
+.spisok li:first-child {
+  color: red;
+  font-weight: bold;
+}
+
+.spisok li:last-child {
+  color: blue;
+  font-style: italic;
+}
+
+.blok a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+.blok p:nth-child(odd) {
+  background-color: #f0f0f0;
+}
