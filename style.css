@@ -1,6 +1,8 @@
 form input:focus {
-  border: 2px solid blue;
+  border: 2px solid orange;
+  background-color: #fff8d1;
 }
+
 
 form button:hover {
   background-color: lightgreen;
